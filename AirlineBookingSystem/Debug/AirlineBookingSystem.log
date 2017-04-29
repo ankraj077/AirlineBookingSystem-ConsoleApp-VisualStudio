@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AirlineBookingSystem.cpp
+g:\tushar\airlinebookingsystem\airlinebookingsystem\airlinebookingsystem.cpp(235): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\tushar\airlinebookingsystem\airlinebookingsystem\airlinebookingsystem.cpp(243): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  AirlineBookingSystem.vcxproj -> G:\Tushar\AirlineBookingSystem\Debug\AirlineBookingSystem.exe
+  AirlineBookingSystem.vcxproj -> G:\Tushar\AirlineBookingSystem\Debug\AirlineBookingSystem.pdb (Full PDB)
